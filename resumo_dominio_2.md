@@ -1,2 +1,3 @@
 *Fundamentos do Github*
+---
 O documento descreve os conceitos essenciais do GitHub, distinguindo claramente a ferramenta local de controle de versão, o Git, da plataforma de hospedagem baseada em nuvem, o GitHub. Ele estabelece que o Repositório é a unidade central de um projeto, contendo todos os arquivos e o histórico de revisões. Além disso, o texto destaca os cinco pilares da plataforma — incluindo IA, Colaboração e Segurança — e detalha as ferramentas de organização, como o Repositório, o Wiki (para documentação extensa) e o Gist (para pequenos trechos de código). Por fim, o guia emite um alerta crucial sobre a natureza dos Gists "Secretos", enfatizando que eles não são verdadeiramente privados e jamais devem ser usados para armazenar dados confidenciais.
